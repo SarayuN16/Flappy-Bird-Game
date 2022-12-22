@@ -1,4 +1,4 @@
-#FLAPPY BIRD RECREATION
+# FLAPPY BIRD RECREATION
 
 Instructions for play:
 
